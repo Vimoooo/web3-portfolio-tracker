@@ -7,7 +7,7 @@ COINGECKO_URL = "https://api.coingecko.com/api/v3"
 WALLET = "0x0000000000000000000000000000000000000000"
 
 TOKENS = {
-    "": {
+    "ETH": {
         "coingecko_id": "ethereum",
         "address": None,
         "decimals": 18,
